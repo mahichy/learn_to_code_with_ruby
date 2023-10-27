@@ -1,0 +1,6 @@
+puts "Big Mac".include? "B"
+puts "Big Mac".include? "M"
+puts "Big Mac".include? "i"
+puts "Big Mac".include? "A"
+puts "Big Mac".include? "g"
+puts "Big Mac".include? "c"
